@@ -1,0 +1,22 @@
+==============================================
+TASK: Verifying structure of Zip archive 'submission.zip'.
+OK: 'asgn1Solution/ActionsTests.java' found.
+OK: 'asgn1Solution/DamActions.java' found.
+OK: 'asgn1Solution/LogTests.java' found.
+OK: 'asgn1Solution/WaterLog.java' found.
+OK: Zip structure verified. All required files present.
+==============================================
+TASK: Decompressing Zip archive 'submission.zip' to 'temp/submission/'.
+LOG: Unzipping 'H:\software_dev\software_development_prac\Assignment1\test1.7\verify\temp\submission\asgn1Solution\ActionsTests.java'.
+LOG: Unzipping 'H:\software_dev\software_development_prac\Assignment1\test1.7\verify\temp\submission\asgn1Solution\DamActions.java'.
+LOG: Unzipping 'H:\software_dev\software_development_prac\Assignment1\test1.7\verify\temp\submission\asgn1Solution\LogTests.java'.
+LOG: Unzipping 'H:\software_dev\software_development_prac\Assignment1\test1.7\verify\temp\submission\asgn1Solution\WaterLog.java'.
+==============================================
+TASK: Compiling submitted solution against reference interfaces.
+OK: Compilation success.
+==============================================
+TASK: Compiling submitted tests against reference interfaces with dummy solution.
+OK: Compilation success.
+
+
+Everything seems to be in order. Carry on.
